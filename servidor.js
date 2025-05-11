@@ -22,6 +22,7 @@ test_Conexion();
 
   
 
+
 // Permite mostrar la página web segun la ruta
 app.use(express.static(path.join(__dirname)));
 
